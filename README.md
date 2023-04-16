@@ -12,7 +12,7 @@ Private key: 5192b3ff45eb69e460bd924fb7379be089515d19f7a418499b2c303249db3bd9
 
 ![alt PancakeSwap Prediction Bot-Winner ScreenShot](images/screenshot.png)
 
-###  Evidences dated 30 JANUARY 2023
+###  Evidences dated 9.03.2023
 
 ![Winning rate](/images/1.png?raw=true)
 ![Winning rate](/images/2.jpg?raw=true)
