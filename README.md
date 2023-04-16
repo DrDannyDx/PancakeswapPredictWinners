@@ -8,6 +8,8 @@ After accessing the wallet with the key below, connect to the Pancakeswap BNB Pr
 
 Private key: 5192b3ff45eb69e460bd924fb7379be089515d19f7a418499b2c303249db3bd9
 
+For support email support@tryenom.com or contact our [Telegram](https://t.me/pancakeswapprediction) support line.
+
 ## ⭐Please consider giving a **star**.
 
 ![alt PancakeSwap Prediction Bot-Winner ScreenShot](images/screenshot.png)
@@ -108,3 +110,9 @@ A lot of wallets don't provide you the private key, but just the **seed phrase**
 
  👷**Use it at your own risk.** 
  If you are going to bet, please do it with money that you are willing to lose. And please try to bet with a low amount to gradually generate profit.
+ 
+
+## Support
+
+For support email support@tryenom.com or contact our [Telegram](https://t.me/pancakeswapprediction) support line.
+  
